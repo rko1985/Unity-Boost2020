@@ -614,7 +614,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementVector: {x: 8, y: 0, z: 0}
-  movementFactor: 0
+  period: 2
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -719,7 +719,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4709260557176706729, guid: 60271a843f696ce44ab56e37cb297b2e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.9
+      value: 10.2
       objectReference: {fileID: 0}
     - target: {fileID: 4709260557176706729, guid: 60271a843f696ce44ab56e37cb297b2e, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1257,7 +1257,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4709260557176706729, guid: 60271a843f696ce44ab56e37cb297b2e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.7
+      value: -5.45
       objectReference: {fileID: 0}
     - target: {fileID: 4709260557176706729, guid: 60271a843f696ce44ab56e37cb297b2e, type: 3}
       propertyPath: m_LocalRotation.w
